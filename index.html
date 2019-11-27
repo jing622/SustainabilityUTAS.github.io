@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<!-- Bootstrap -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="UTAS Sustainability" content="UTAS Sustainability Map">
+
+		<title>UTAS Sustainability Tour Map</title>
+		<!-- Bootstrap core CSS CDN -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<!-- custermized CSS  -->
+		<link href="./style.css" rel="stylesheet">
+		<!-- jQuery CDN -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+		<!-- leaflet js CDN -->
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+		<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
+	</head>
+	
+	<body>
+		<div id="campusSelector_div" class="container-fluid header">
+			<p id="campusSelector_text">Select a campus</p>
+			<select class="form-control" id="campusSelector" onchange="reloadMap();">
+				<option value="ALL">All Campus</option>
+				<option value="HC">Hobart City (HC)</option>
+				<option value="SB">Sandy Bay (SB)</option>
+				<option value="NH">Newnham (NH)</option>
+				<option value="IR">Inveresk (IR)</option>
+				<option value="CC">Cradle Coast (CC)</option>
+			</select>
+		</div>
+		
+		<!-- map_panel div is includes map and the side-window triggered when a location is clicked   -->
+		<div class="map_panel">
+			<!-- map -->
+			<div class="map" id="map" > 
+				<script type="text/javascript" src="leaflet/leafletembed.js"></script>				
+			</div>
+			
+			<!--  side-window  -->
+			<div class="container-fluid" id="side_window">
+				<div class="mx-auto">
+					<img class="img-fluid" id="point_image" alt="">
+				</div>
+				<div class="container-fluid" id="point_head_div">
+					<h4 id="point_name" class="float-left"></h4>
+					<p id="point_time" class="float-left figure-caption"></p>
+				</div>
+				<!-- two placeholders for accessibility icons -->
+				<div id="point_accessibility_div">
+					<img id="ISD_icon" class="point_accessibility">
+					<img id="point_accessibility1" class="point_accessibility">
+					<img id="point_accessibility2" class="point_accessibility">
+				</div>
+				<p class="text-justify" id="point_description"></p>
+				<!-- two placeholders for SDG icons -->
+				<div id="point_SDG_div">
+					<img id="point_SDG1" class="point_SDG">
+					<img id="point_SDG2" class="point_SDG">
+				</div>
+				<!-- the close button : only displayed when screen width >= sm -->
+				<div id="close_div" class="my-2 d-flex d-sm-none">
+					<button id="close_btn" class="btn btn-primary mx-auto" onclick="close_side_window()">Close</button>
+				</div>
+			</div>
+		</div>
+  
+		<!-- this div is the horizontal scrolling list of all points -->
+		<div class="scrolling-wrapper" id="scrolling_list_div"></div>
+		
+		<!-- this is the footer -->
+		<footer id="footer" class="py-4 bg-dark text-white-50">
+			<div class="container">
+				The sustainability trail map was created through the Sustainability Integration Program for Students (SIPS), the project was led by SIPS student Jing Fan mentored by Varunjani Jayaseelan and Catherine Elliott.
+				<br><br>Thank you to the following content contributors Prof Jamie Kirkpatrick, Corey Peterson, Mark White, Matt Smith, Stephen Jackson, Ian Caletti, Rowena Zwart, Sharifah Syed-Rohan, Zoey Douglas-Kinghorn, Doug McGinn, Coral Devereaux, Carmen Primo Perez, Gabrielle Stannus, Danielle Kidd, Joanna Gair, Nick Towle, Julia Chin Chin, Christine Delpero, Chester James-Smith and Kawinwit Kittipalawattanapol. In particular thank you to Joel Webb and Tim Cooper for their technical support.
+				<br><br>If you have questions about sustainability at UTAS or have feedback on the tour, please contact us at <a href="mailto:Sustainability.utas@utas.edu.au">Sustainability.utas@utas.edu.au</a><br>
+			</div>
+		</footer>
+	</body>
+</html>

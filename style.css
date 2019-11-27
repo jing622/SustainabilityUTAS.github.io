@@ -1,0 +1,204 @@
+html {
+    width: 100%;
+    overflow: scroll;
+}
+body {
+    width: 100%;
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+}
+
+ /*the following four css are for scrollbar*/
+    /* width */
+    ::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    /* Track */
+    ::-webkit-scrollbar-track {
+      background: whitesmoke; 
+    }
+     
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+      background: #d1d1e0; 
+    }
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+      background: #888; 
+    }
+
+
+/* logo and heading */
+#logo-div {
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+}
+
+
+/* map area */
+.map_panel {
+    position: relative;
+    height: 500px;
+    width: 100%;
+    overflow: overlay;
+}
+
+#map {
+	z-index: 0;
+    width: 100%;
+    height: 500px;
+    border: 1px solid #d1d1e0;
+}
+
+/*campus selector*/
+#campusSelector_div {
+    text-align: center;
+}
+#campusSelector_text {
+    width:120px;
+    size: 30px;
+    display: inline-block;
+    margin-top:10px;
+    vertical-align: middle;
+}
+
+#campusSelector {
+    height: 40px;
+    width: 180px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.leaflet-popup-content {
+    margin:5px;
+}
+
+.infoWindow {
+    max-width: 150px;
+}
+
+.infoWindow_title {
+    font-size:14px; 
+    text-align:center; 
+    font-weight: bold;
+}
+
+/* side window */
+#side_window{
+	z-index: 1;
+    width: 380px;
+    min-width: 30vw;
+    max-width: 90vw;
+    height: 500px;
+    border: 1px solid #d1d1e0;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    overflow: auto;
+    display: none;
+    padding: 15px;
+}
+#point_image {
+    margin-bottom: 1rem;
+}
+
+#point_head_div {
+    border-left: 3px solid #cc0000;
+    display: table;
+    margin-bottom: 1rem;
+}
+#point_time {
+    margin-bottom: 0;
+}
+
+#point_description a {
+    color: black;
+    font-weight:bolder;
+    text-decoration:none;
+    border-bottom: 2px solid grey;
+}
+
+#point_description a:hover {
+    font-weight:bolder;
+    transition: 0.6s;
+    border-bottom: 2px solid black;
+}
+
+.point_accessibility {
+    width: 40px;
+    height: 40px;
+}
+.point_SDG {
+    width: 100px;
+    height: 100px;
+}
+
+/*following css is for the horizontal scrolling list*/
+.scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden; /*turn off vertical scrolling*/
+    white-space: nowrap; /*white-space is used to control how text wraps around a container. nowrap disable wrapping. if care IE, go https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6 */
+    -webkit-overflow-scrolling: touch;/*this is for iOS, touch to stop scrolling*/
+    padding: 10px;
+    height: auto;
+}
+
+#list {
+    height: 150px;
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+/*this is the div for each point*/
+.card {
+    display: inline-block;
+    width: 180px;
+    height: 120px;
+    margin: 5px;
+}
+
+/*this is the image for each point (within div.card)*/
+.list_img {
+    width: 180px;
+    height: 120px;
+    border-radius: 2px;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption_div {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 180px;
+    height: 26px;
+    color: white;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 5px;
+    background-color: rgb(26,26,26,0.5);
+    word-break: break-word; 
+}
+
+
+/* footer section */
+#footer {
+    color: white;
+}
+#footer a {
+    text-decoration-line: underline;
+    color: white;
+}
+
+
+
+
