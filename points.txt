@@ -1,0 +1,1189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 1,
+        "name": "Thomas Crawford Trail",
+        "description": "The University grounds and 200 metres around the property is habitat to many threatened species and communities including Tall Wallaby Grass (<i>Austrodanthonia induta</i>), Swamp Paperbark (<i>Melaleuca ericifolia</i>), Swift Parrots (<i>Lathamus discolor</i>), Forty-Spotted Pardalote (<i>Pardalotus quadragintus</i>), Eastern Barred Bandicoot (<i>Perameles gunnii gunnii</i>) and the Tasmanian Devil (<i>Sarcophilus harrisi</i>). As you walk along the trail try and spot as many species as you can and enjoy some time in nature. <br>The trail is named after the late Thomas Crawford who attended the University in the 1960s and was struck by his experiences in the Tasmanian environment. Crawford's bequest enables students from around the world to experience and enjoy the same pleasure he had walking through the campus.<br><br>Find out more about <a href='http://www.utas.edu.au/infrastructure-services-development/sustainability/natural-environment' target='_blank'>threatened species</a> on University of Tasmania property and ways to get involved through citizen science on our website. <br><br>NB please be aware of uneven terrain, there may be biting insects such as jack jumpers and take precautions if you have pollen allergies.",
+        "time": "",
+        "image": "./img/image_SB.1.jpg",
+        "image_alt": "The beginning of the Thomas Crawford trail and an informative poster, wooden viewing platform and native trees.",
+        "accessibility1": "noWheelchair",
+        "accessibility2": "uneven",
+        "SDG1": 11,
+        "SDG2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32398599386215,
+          -42.90410505968781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 2,
+        "name": "Source Community Wholefoods Cooperative",
+        "description": "Source Community Wholefoods Cooperative (Source) has been established to inspire, facilitate and celebrate solution-based approaches to living sustainably in an urban environment. Source has a passive solar building, volunteering opportunities for staff and students and a community garden that supports healthy lunches. Produce at the cooperative is grown or made by local farmers wherever possible. Find out about events at <a href='https://www.facebook.com/sourcewholefoods' target='_blank'>Source on Facebook.</a>",
+        "time": "Take 30 mins to enjoy a cup of coffee or lunch and explore the garden. You could also check out the worm farm or chat with the volunteers and managers.",
+        "image": "./img/image_SB.2.jpg",
+        "image_alt": "Source community Wholefood and café garden bed and green draping grape vines.",
+        "accessibility1": "noWheelchair",
+        "SDG1": 11,
+        "SDG2": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.323103,
+          -42.903024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 3,
+        "name": "Tasmania University Union (TUU)",
+        "description": "Sustainability is both about the health of physical environments and the wellbeing of people and their interactions. The TUU supports many student societies and sports clubs that champion sustainability within the University and wider community. Clubs and societies are an excellent source of physical, mental, social and cultural wellbeing for students. <br> The TUU provides welcoming spaces including a parenting room, women’s room and queer room in the TUU building. The TUU has also launched wellbeing campaigns including the #NeverOK and Find the Right Blend campaign #FTRB.<br><br>Find out more on the <a href='https://www.tuu.com.au/' target='_blank'>TUU website</a> or like the <a href='https://www.facebook.com/TasmaniaUniversityUnion/'target='_blank'>TUU Facebook page</a> to keep up to date about all the new initiatives your TUU is doing.",
+        "time": "Take 15 mins to relax on the couches, grab a free hot drink, browse the posters or book swap library to unwind",
+        "image": "./img/image_SB.3.jpg",
+        "image_alt": "Tasmanian University Union contact centre.",
+        "SDG1": 5,
+        "SDG2": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32377409934998,
+          -42.90294980388388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 4,
+        "name": "Tasmania University Union (TUU)",
+        "description": "In 2019 the TUU became the first student union in the Southern Hemisphere to generate 100% of their energy from on-site renewables. The solar panels are located on buildings in Newnham, Inveresk and Sandy Bay campuses. This effort was a culmination of six years of commitment and leadership by students and staff at the University. <br>The initiative follows ongoing improvements in energy efficiency, and strong support from students and staff for divestment from fossil fuels. <br>Refer to our website to learn more about the <a href=' http://www.utas.edu.au/infrastructure-services-development/sustainability/energy-and-greenhouse-gases' target='_blank'> University’s energy management and greenhouse gas emissions strategy</a>, and how you can contribute to reducing emissions.",
+        "time": "",
+        "image": "./img/image_SB.4.jpg",
+        "image_alt": "Underpass from the UTAS Library to the Tasmanian University Union. The underpass has a painted graphic of solar panels and the sun with the statement #yourTUU and 100% renewable.",
+        "SDG2": 9,
+        "SDG1": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32439637184143,
+          -42.903484210620114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 5,
+        "name": "Electric vehicle charging station",
+        "description": "Since 2017, the University’s vehicle fleet has included four hybrid and three electric cars. In the 2015-2016 financial year the three electric cars collectively avoided approximately 1.5 tonnes of CO2 emissions and saved $750 in fuel. These cars contribute to the University’s certification as the second university in Australia to be certified carbon neutral. <br><br> To encourage staff and students to reduce their carbon emission the University has installed electric charging stations on Sandy Bay and other campuses that are accessible for privately owned electric vehicles..",
+        "time": "",
+        "image": "./img/image_SB.5.jpg",
+        "image_alt": "A white electric car with the UTAS logo next to an electric car charger.",
+        "SDG1": 7,
+        "SDG2": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.324704,
+          -42.902838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 6,
+        "name": "Storm water garden",
+        "description": "The two storm water gardens at the University of Tasmania were designed to collect and treat stormwater from the TUU and Humanities car parks and surrounding area using water sensitive urban design principles. Water travelling through carparks and road ways can be contaminated by air and ground pollution. In the gardens, water is diverted through a series of low maintenance vegetated basins and filtered through sandy soils and gravel with additional treatment by microorganisms. The gardens ensure clean water is released into the Derwent River. <br><br> Read more about<a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/water' target='_blank'>water management</a> at the University on our website. <br><br> <a href='http://www.yourhome.gov.au/water/stormwater' target='_blank'> At YourHome </a> your can find out more about managing storm water in Australia.",
+        "time": "",
+        "image": "./img/image_SB.6.jpg",
+        "image_alt": "Water sensitive urban design using rocks, gravel and tussock grasses.",
+        "SDG1": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.324975,
+          -42.902701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 6,
+        "name": "Storm water garden",
+        "description": "The two storm water gardens at the University of Tasmania were designed to collect and treat stormwater from the TUU and Humanities car parks and surrounding area using water sensitive urban design principles. Water travelling through carparks and road ways can be contaminated by air and ground pollution. In the gardens, water is diverted through a series of low maintenance vegetated basins and filtered through sandy soils and gravel with additional treatment by microorganisms. The gardens ensure clean water is released into the Derwent River. <br><br> Click <a href='http://www.utas.edu.au/infrastructure-services-development/sustainability/water' target='_blank'>here</a> to read about the university’s strategy for sustainable water management. <br><br>Click <a href='http://www.yourhome.gov.au/water/stormwater' target='_blank'>here</a> to learn more about how the Australian government manages storm water.",
+        "time": "",
+        "image": "./img/image_SB.6.1.jpg",
+        "image_alt": "Water sensitive urban design using rocks, gravel and tussock grasses.",
+        "SDG1": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3260538,
+          -42.9044125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 7,
+        "name": "Public Transport",
+        "description": "In 2017, the University’s Biannual Travel Behaviour Survey found that over 80% of international students used a sustainable mode to get to University. Most international students walked as they were living close to campus. Over half of Tasmanian-born students used a sustainable mode of transport to get to campus, most often by bus. The main public transport service, Metro Tas, introduced the Turn up and Go Metro Service which provides students and staff with a high frequency travel route between Hobart CBD and Sandy Bay. Students can purchase a Greencard for the bus at the TUU shop on campus or online through the  <a href='https://www.metrotas.com.au' target='_blank'> Metro website</a>. <br><br> If you are new to Tasmania you can find <a href='https://www.metrotas.com.au/communication/blog/2019/utas-student-greencard-promotion/' target='_blank'>short videos</a> on bus travel created by students through the Sustainability Integration Program for Students (SIPS). 
+        "time": "",
+        "image": "./img/image_SB.7.jpg",
+        "image_alt": "Picture of a yellow metro bus at a bus stop on College Road.",
+        "SDG1": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.325237,
+          -42.902745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 8,
+        "name": "School of Chemistry",
+        "description": "There are Acts, Regulations and Codes of Practice that govern the use, management and disposal of hazardous materials at the University. <a href='http://www.utas.edu.au/work-health-safety/health-and-safety-topics/chemical-management' target='_blank'>The University has guidelines</a> to prevent water and land pollution from hazardous waste contamination.",
+        "time": "Take 10 mins to admire the periodic table display by the entrance.",
+        "image": "./img/image_SB.8.jpg",
+        "image_alt": "A cream coloured building with a with a glass window wall and sign outside saying Chemistry.",
+        "SDG1": 14,
+        "SDG2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32560336589813,
+          -42.903012675505046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 9,
+        "name": "University Staff Club",
+        "description": "Pickled Pear provides catering for the University Staff Club and other University events. Pickled Pear’s pledge to sustainability includes composting food waste, recycling used vegetable oil into bio-diesel fuel, provision of 100% compostable tableware, and sourcing local produce. Pickled Pear also offers customers a 50 cent discount when they bring their own mugs for take away coffee. This caterer is supportive of increasing energy efficiency across the kitchen, dining and delivery facilities.",
+        "time": "Take 15 mins if you are a university club member to enjoy a hot drink with a view into the trees",
+        "image": "./img/image_SB.9.jpg",
+        "image_alt": "Picture of the building entrance to the University staff club. The entrance has two red columns supporting a porch roof leading to the front door.",
+        "SDG1": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32580721378326,
+          -42.90219140990223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 10,
+        "name": "Bicycle hub",
+        "description": "In 2012, SIPS students from Geography and Environmental Studies and Architecture and Design designed this electric bicycle hub charging station in collaboration with staff from the University’s Commercial Services and Development Division. The bike hub provides secure bike storage, solar-powered bicycle charging stations and a repair stand.<br> The <a href='https://www.utas.edu.au/campuses/campus-maps' target='_blank'> UTAS Campus maps </a> include information about bike parking locations, water refill stations and shower facilities.<br><br> <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/transport/decide-your-ride' target='_blank'> Decide your ride</a> is a student project with videos you can watch to map your cycling route between campus.<br><br> The University has a Sustainable Transport Strategy 2017-2021, find this and more sustainable transport resources <a href='http://www.utas.edu.au/infrastructure-services-development/sustainability/transport/sustainable-transport-options' target='_blank'> on our website</a>.",
+        "image": "./img/image_SB.10.jpg",
+        "image_alt": "Picture of the bicycle hub at UTAS near the Engineering building with parked bicycles and bike locker storage.",
+        "SDG1": 7,
+        "SDG2": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.326419,
+          -42.901869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 11,
+        "name": "School of Earth Sciences, Geography & Environmental Studies",
+        "description": "The School of Geography building was designed in 1988. It is one of the only buildings on campus to have a passive solar design in the staff wing. The building is also equipped with an ultra violet (UV) biometer designed by Manuel Nunez. The biometer is currently used to gauge UV radiation readings for all of Hobart. <br><br> Another interesting feature of the building are the stickers of predatory birds have been placed along the glass corridor of the building. This is to prevent incidents and casualties of birds flying into glass. A reduction in Swift Parrot deaths near the building has been observed since the stickers went up.",
+        "time": "Take 20 mins to explore the geological artefacts, rocks and other features of the building.",
+        "image": "./img/image_SB.11.jpg",
+        "image_alt": "Sign for the UTAS Earth Science, Geography and Environmental Studies building.",
+        "SDG1": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32811391353607,
+          -42.90313055962192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 12,
+        "name": "Morris Miller Library ",
+        "description": "The safety, health and wellbeing of students and staff is a core value of the University. Students have access to personal development tools, career and job application support, free counselling services and more. You can find <a href='https://www.utas.edu.au/students/resources' target='_blank'> student resources</a> and more information about <a href='https://www.utas.edu.au/students/shw'>University stupport services </a> online or head to Level 1 in the library for brochures. <br><br> Did you know that by switching to light emitting diode (LED) lighting, the Sandy Bay campus reduced energy costs by 80%-86%? <br>The Morris Miller Library is just one location where you can see energy efficient lighting as 7W LED lights replaced 35W halogen lamps. ",
+        "time": "",
+        "image": "./img/image_SB.12.jpg",
+        "image_alt": "Two students walking into the breezeway of the Morris Miller Library.",
+        "accessibility1": "",
+        "SDG1": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32597887516022,
+          -42.90355101113642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 13,
+        "name": "Lazenby’s Café and Restaurant",
+        "description": "Most catering for the University of Tasmania is currently operated by Chartwells who have committed to increasing sustainability within their services. <br><br>All campus cafes offer a discount if you bring your own mug. To encourage the use of reusable cups, Chartwells offer a free coffee with every reusable cup purchase. Former TUU Environment Officer, Zoe Douglas-Kinghorn worked with Lazenby’s to create a mug library with mugs donated by staff and students, borrow a mug and bring it back to receive a 20-cent discount. Follow the  <a href='https://www.facebook.com/muglibraryutas' target='_blank'>mug library facebook page</a> for more information. <br><br> Chartwells' cafes use compostable cutlery and packaging, which along with their food waste is sent to commercial composting facilities to reduce waste to landfill. To further reduce waste to landfill, Chartwells does not offer plastic straws and have replaced single use condiment sachets where possible. <br><br> To reduce their food waste on a local scale left over food from events is supplied to City Mission charity where appropriate. On a national scale the Compass group donates both cash and food to Oz harvest. Oz harvest is a food rescue organization operating in Australia. They collect left over food from partnered organizations and deliver it to vulnerable communities and charities. <a href='https://www.ozharvest.org/tag/compass-group' target='_blank'>Read more</a> about the partnership between the Compass group and Oz harvest.",
+        "time": "Take 20 mins to enjoy a hot drink with a mug from the mug library",
+        "image": "./img/image_SB.13.jpg",
+        "image_alt": "Stairs leading to the entrance of Lazenby’s with students enjoying coffee in the seating area outside.",
+        "SDG1": 12,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32612371444702,
+          -42.90410505968781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 14,
+        "name": "Filtered water station",
+        "description": "The University of Tasmania provides staff and students with clean drinking water in all tea rooms and through water refill stations across the campus. Staff and students are encouraged to use reusable bottles at water refill stations around the campus instead of purchasing single use plastic bottles.<br> In 2019, it was estimated that on average students have been filling up over fifty 750ml bottles every day over the last 10 years from a single water station. That’s 19,653 single use plastic bottles saved from going to landfill annually. <br><br> Learn more about how the <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/water' target='_blank'> University manages its  water resources </a> and ways in which you can save water.",
+        "time": "",
+        "image": "./img/image_SB.14.jpg",
+        "image_alt": "The water filter station near Lazenby’s Cafe.",
+        "accessibility2": "",
+        "SDG1": 6,
+        "SDG2": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.326081,
+          -42.903924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 14,
+        "name": "Filtered water station",
+        "description": "The University of Tasmania provides staff and students with clean drinking water in all tea rooms and through water refill stations across the campus. Staff and students are encouraged to use reusable bottles at water refill stations around the campus instead of purchasing single use plastic bottles.<br> In 2019, it was estimated that on average students have been filling up over fifty 750ml bottles every day over the last 10 years from a single water station. That’s 19,653 single use plastic bottles saved from going to landfill annually. <br><br> Learn more about how the <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/water' target='_blank'> University manages its  water resources </a> and ways in which you can save water.",
+        "time": "",
+        "image": "./img/image_SB.14.1.jpg",
+        "image_alt": "The water filter station near Lazenby’s.",
+        "SDG1": 6,
+        "SDG2": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3267125,
+          -42.9034422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 15,
+        "name": "Recycling hub",
+        "description": "The University of Tasmania, with the support from the City of Hobart is trialing a pilot recycling hub at the entrance of the Social Sciences building. The hub has separate collection units for toothbrushes & toothpaste tubes, printer and toner cartridges, pens, bread tags, mobile phones, batteries, contact lenses, blister packs and small e-waste. The items are processed either locally or sent for free to mainland facilities.<br><br>This service got its start through the work of 2019 SIPS students Christoff Kartzoff and Joy Pfleger and their staff mentor Jasper McCormack. The current sustainability projects officer Will Plaister has now taken over this role and will oversee the expansion of this project to include more campuses. <br><br> If your school, college or building would like to be considered for a recycling hub or for more information about the pilot program please
+contact: waste.services@utas.edu.au. <br> <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/recycling-and-waste-management' target='_blank'> Visit our website </a> for information about resource and waste management at the University.",
+        "time": "",
+        "image": "./img/image_SB.15.jpg",
+        "image_alt": "Brightly coloured wall with collection slots for various recycleable items such as bread tags, e waste, xrays and more.",
+        "SDG1": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.326691,
+          -42.904418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 16,
+        "name": "Riawunna Centre for Aboriginal Education",
+        "description": "Riawunna Centre for Aboriginal Education is a welcoming community space for Aboriginal and Torres Strait islander students and staff. <br> Riawunna encourages sharing stories and celebrating the culture of the traditional owners and ongoing custodians of lutruwita (Tasmania). The staff also offer many services to UTAS and the broader Tasmanian Aboriginal and Torres Strait islander community ranging from academic advice and tutoring to financial support through scholarships and bursaries. <a href='https://www.utas.edu.au/riawunna' target='_blank'> Visit the Riawunna website </a> for information about the Centre and the services offered.<br><br> <a href='https://125timeline.utas.edu.au/timeline/2010/aboriginal-tasmania-university-tasmania' target='_blank'> Read this article </a> to learn more about the history of Riawunna at the University of Tasmania.",
+        "time": "",
+        "image": "./img/image_SB.16.jpg",
+        "image_alt": "An exposed red brick building entrance to the Riawunna centre.",
+        "SDG1": 4,
+        "SDG2": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.326422,
+          -42.904492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 17,
+        "name": "Unigym",
+        "description": "The Unigym in Sandy Bay is a space for UTAS and the wider community to pursue health and fitness. <br> Whether you’re just starting out or well into your fitness journey, the Unigym will have the necessary services and facilities for you.<br> These include: <br> Indoor and outdoor sports courts;<br> Group and private fitness classes; <br> Space and equipment for self-guided exercise. <br><br> Follow this link to the <a href='https://www.utas.edu.au/unigym' target='_blank'>Unigym website </a> for more information on membership rates including student discounts, fitness programs and activities..",
+        "time": "",
+        "image": "./img/image_SB.17.jpg",
+        "image_alt": "A red and black building with the Unigym logo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32829630374908,
+          -42.90094180775955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": 18,
+        "name": "Accommodation Services",
+        "description": "Accommodation Services provides resident students with secure bicycle parking (racks and hubs). They also several recycling hubs for phones, batteries and other small recycleable items in the administration and laundry rooms.",
+        "time": "",
+        "image": "./img/image_SB.18.jpg",
+        "image_alt": "A red sign for Accomodation Services in College Road.",
+        "SDG1": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3197990655899,
+          -42.90526029384343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": "Birds",
+        "name": "Birds in the University Reserve",
+        "description": "The University of Tasmania campuses are home to many native birds. The University Reserve is an ideal habitat for many bird species. Many of these charismatic birds are endemic to Tasmania, which means that they are not found anywhere else in the world! Birds here are also known for their large size compared to their related species all around the world. For example, green rosellas (<i>Platycercus caledonicus</i>) and yellow wattle birds (<i>Anthochaera paradoxa</i>) are the largest species compared to their worldly relatives found elsewhere. Apart from just being fascinating, these birds also in turn help with <a href='https://www.environmentalscience.org/birds-ecosystem-services' target='_blank'>ecosystem services</a> such as pollination and pest control. <a href='https://ebird.org/hotspots?hs=L2548519&yr=all&m=' target='_blank'>Head to eBird</a> to learn more about the species found at the University. Hopefully this will encourage you to get out there and explore! </br></br> <a href='https://ebird.org/home' target='_blank'>eBird is an application</a> for anyone to record information about birds in the form of checklists, archive it and freely share it. This tool emphasises new data-driven approaches to science, conservation and education. Check it out if you are interested!",
+        "time": "",
+        "image": "./img/image_SB.Birds.jpg",
+        "image_alt": "Picture of a bird.",
+        "SDG1": 11,
+        "SDG2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32314109802246,
+          -42.90470232630791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": "Trees",
+        "name": "Trees in the University Reserve",
+        "description": "Biodiversity is all around us. The term biodiversity encompasses the variety of all living things; the different plants, animals and micro-organisms, the genetic information they contain and the ecosystems they form. This biological aspect of the natural world is of intense value as it often sustains processes that we, humans, depend on through <a href='http://www.teebweb.org/resources/ecosystem-services/' target='_blank'>ecosystem services</a>. The University of Tasmania is fortunate to have high biodiversity in such close proximity. The walking tracks in the University Reserve are a good place to explore biodiversity. Please visit the <a href='https://www.inaturalist.org/observations?nelat=-42.89683095&nelng=147.33849299999997&place_id=any&swlat=-42.90867315&swlng=147.31105219999995&fbclid=IwAR3-Wb8lGtx8oPAPX9H7jSKVfonUe8Ugdm8rq1Jz5jM5B_L79NPkh7ZDcIU' target='_blank'>iNaturalist link</a> to explore biodiversity around the campus! </br></br> <a href='https://www.inaturalist.org/' target='_blank'>iNaturalist is an application</a> for anyone who is curious about the natural world. It provides an invaluable venue for people to identify, record and share natural values while also contributing to science, conservation and education! Check it out if you are interested!",
+        "time": "",
+        "image": "./img/image_SB.Trees.jpg",
+        "image_alt": "Picture of a leaf and a snail.",
+        "SDG1": 11,
+        "SDG2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32184290885925,
+          -42.90694988304432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": "History",
+        "name": "Charles Darwin in Hobart",
+        "description": "Charles Darwin found himself in Hobart, Tasmania on 5 February 1836 after an expedition on the ‘Beagle’ through South America. While Darwin was in Van Diemen’s Land (modern day Tasmania) he observed and collected many samples of geological and biological interest. His research in Tasmania later became part of the (<i>Theory of Evolution</i>) in his book (<i>On the Origin of Species</i>) written in 1859.<br><br> Charles Darwin explored many places in Hobart from the peak of kunyani/Mount Wellington to the shores of Battery Point and Sandy Bay. He also went on an excursion along the eastern shore, now memorialised as the Charles Darwin trail. The trail is a 11.5km loop from Kangaroo bay to Bellerive Bluff, Second Bluff, Waverly Flora Park, Mornington Hill and back.<br><br> <a href='https://www.utas.edu.au/library/exhibitions/darwin/hobart.html' target='_blank'>Read more about Charles Darwin’s journey here</a>.",
+        "time": "",
+        "image": "./img/image_SB.History.jpg",
+        "image_alt": "Memorial with information detailing Charles Darwin’s travels in Hobart.",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3528071,
+          -42.9090999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "SB",
+        "id": "Water",
+        "name": "Marine biodiversity around UTAS",
+        "description": "The Sandy Bay Campus is situated on the fringe of some of most beautiful temperate rocky reefs. Rocky reefs extend south from Taroona and are readily accessible at Kingston, Blackman’s Bay and Tinderbox Marine Reserve. <br><br>Kelp forests are the foundation of rocky reef food web systems and macroalgae or kelp is described as an ‘ecosystem engineer’. Low, dense kelp cover creates a structurally complex environment that provides protection from predation for many species and is a major site of nutrient cycling on reefs. Rocky reefs support a plethora of life from sponges, echinoderms, fish, molluscs and more.",
+        "time": "",
+        "image": "./img/image_SB.Water.jpg",
+        "image_alt": "Line drawing of a Southern Rock Lobster (<i>(Jasus edwardsii)/i>), Southern Rock Lobsters are an iconic animal in Australia’s temperate Southern reefs.",
+        "accessibility2": "uneven",
+        "SDG1": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           147.33420,
+          -42.895151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "HC",
+        "id": 1,
+        "name": "Institute for Marine and Antarctic Studies (IMAS) ",
+        "description": "The IMAS building was awarded a <a href='https://new.gbca.org.au/green-star/' target='_blank'>5 star Green Star</a> design rating and has received other awards for urban architecture and design. The architecture of the building complements the waterfront location and climate conditions by using circulating air and sea water to moderate building temperatures. Central voids allow warm air to ventilate at roof level and natural daylight to illuminate the interior. <br><br>The building is designed to support both staff and student wellbeing with an indoor and outdoor lounge/lunchroom and two separate open stairs inviting occupants to avoid lifts if possible. It also has conveniently located secure bicycle storage and cycling support facilities.",
+        "time": "",
+        "image": "./img/image_HC.1.jpg",
+        "image_alt": "The IMAS building with the glass top entrance.",
+        "SDG1": 7,
+        "SDG2": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3361655,
+          -42.8865595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "HC",
+        "id": "Water",
+        "name": "Marine biodiversity around UTAS",
+        "description": "IMAS overlooks the Eastern Shore where large sandy soft sediment and seagrass bed habitats are found; these habitats are prolific throughout the Upper to Middle Derwent. <br><br>Seagrasses are flowering plants, ‘angiosperms’ that live submerged in sandy benthic habitats of tidal and sub-tidal environments. Seagrasses play an important role in estuarine ecosystems and are highly productive. Seagrasses provide food and shelter for Handfish, Octopus, Oystercatchers and Pacific Gulls who use this as their primary habitat. Large Seagrass beds in sheltered bays at Cadburys Point Granton and Bridgewater are important nursery grounds for juvenile fish and sharks.<br><br><a href='https://handfish.org.au/' target='_blank'>Learn about Handfish here</a>.",
+        "time": "",
+        "image": "./img/image_HC.Water.jpg",
+        "image_alt": "Line drawing of a handfish, handfish are bottom-dwelling fish that ‘walk’ with their hand-like fins over silty habitats.",
+         "SDG1": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           147.3383363,
+          -42.895151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "HC",
+        "id": 2,
+        "name": "Medical Science 2 (MS2) Facility",
+        "description": "The MS2 facility was the first building awarded a <a href='https://new.gbca.org.au/green-star/' target='_blank'>5 star Green Star Education Design v1</a> rating in Tasmania.  <br><br> The floor is a natural rubber based flooring with recycled timber and recycled carpet material. The building utilises rain water tanks and recycled water irrigation. Energy efficiency is further maximised using solar hot water, daylight lighting control and sensory active lighting. The outdoor podium was designed using native plants to provide a green wellbeing space for students and staff. The open central stairs are also designed to encourage active physical movement over using the lifts. The building is located in central Hobart with constant public transport routes available. Cyclists are also well supported through the provisioning of secure parking space, electric bike charging stations and other amenities.",
+        "time": "",
+        "image": "./img/image_HC.2.jpg",
+        "image_alt": "The Medical Science 2 facility with blue and green glass and features to capture sunlight.",
+        "SDG1": 7,
+        "SDG2": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3298672,
+          -42.8787598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "HC",
+        "id": "Water",
+        "name": "Marine biodiversity around UTAS",
+        "description": "The Derwent is subject to many anthropogenic stressors including pollution, heavy metal contamination, agricultural run-off and nutrient enrichment from stormwater and sewers. These factors affect biodiversity directly and indirectly; and may result in alterations to the natural ecosystem such as a reduction in habitat quality and extent, changes in species composition or in severe instances extinction. <br><br>Health is engrained in the purpose of this campus; maintaining the health of local environments is intrinsically important as well as being important to the health of human communities.<br><br>Sign up to volunteer for marine projects through <a href='https://www.utas.edu.au/students/careers/careerconnect' target='_blank'>Career Connect</a> or explore other volunteering opportunities from <a href='https://www.volunteeringtas.org.au/' target='_blank'>Volunteer Tasmania</a> and <a href='https://inspiringtas.org.au/' target='_blank'>Inspiring Tasmania</a>.",               
+        "time": "",
+        "image": "./img/image_HC.Water.1.jpg",
+        "image_alt": "Line drawing of a Weedy Seadragon (<i>(Phyllopteryx taeniolatus)/i>) which are endemic to Australia; they have seaweed-like appendages and camouflage effortlessly.",
+         "SDG1": 11,
+        "SDG2": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           147.3293912,
+          -42.8781913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "HC",
+        "id": 3,
+        "name": "Domain House",
+        "description": "Domain House, currently a teaching facility for nursing and midwifery, has been a part of the University since 1924. <br><br>Surrounding the domain is a large green space where students can enjoy lunch or go for a walk. Many cycling trails also go past the domain and the University’s rose garden can be found nearby.",
+        "time": "",
+        "image": "./img/image_HC.3.jpg",
+        "image_alt": "A manicured green lawn, a few scattered large trees and a path leading to the Nursing Facility in Domain House.",
+        "SDG1": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.329572,
+          -42.876966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "HC",
+        "id": 4,
+        "name": "Jane Franklin Hall",
+        "description": "Jane Franklin Hall maintains a community food garden and worm farm on site, run by the residents' Garden Club. Produce from the garden is shared among residents and included in meals served in the dining hall. Kitchen scraps and other food waste is provided to the worms and the nutrient-rich 'worm juice' is used to fertilise the food garden. <br><br> If you are a Jane resident and would like to get involved in Garden Club, email di@jane.edu.au for more information.",
+        "time": "",
+        "image": "./img/image_HC.4.jpg",
+        "image_alt": "Earth worms and dirt held in garden glove covered hands.",
+        "SDG1": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3141837,
+          -42.8945751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "HC",
+        "id": "Water",
+        "name": "Marine biodiversity around UTAS",
+        "description": "The Domain is situated near the Middle to Upper Estuary. As you walk in the surrounding area, look towards Bridgewater, Austins Ferry, Risdon, and Gagebrook where large tidal wetlands and macrophyte beds were once prolific. <br><br>Wetlands are highly vegetated areas that are partially or fully submerged in water. Wetlands can be freshwater, brackish, or saline which gives rise to the diversity of life observed across these habitats. Wetlands are highly productive, consisting of reed beds, tidal flats, herbland, scrubland and fringing woodland. Wetlands are an important sanctuary for birds, such as swans, ducks, grebes, moorhens, egrets, herons, and falcons.",           
+        "time": "",
+        "image": "./img/image_HC.Water.2.jpg",
+        "image_alt": "Line drawing of reeds and rushes which are ‘hydrophytes’ and are adapted to living in waterlogged, wetland environments.",
+        "accessibility2": "uneven",
+         "SDG1": 14,
+         "SDG2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           147.331302,
+          -42.876830
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "campus": "HC",
+        "id": "Water",
+        "name": "Marine biodiversity around UTAS",
+        "description": "The Derwent is a changing environment. Throughout time some species and habitats of the Derwent have shifted, whilst others have remained the same. This is due to both natural and human phenomena. <br><br>For example, the Derwent was once a calving ground for Southern Right Whales which feed in the Southern Ocean during Summer. Historical whaling to produce oil drove Southern Right Whales to the brink of extinction. Whale populations in Tasmania have steadily increased over the past 40 years. Sightings in the Derwent today are infrequent but a sign that populations are recovering.",          
+        "time": "",
+        "image": "./img/image_HC.Water.3.jpg",
+        "image_alt": "Line drawing on a white background of a whale fluke rising out of the horizon.",
+        "SDG1": 11,
+        "SDG2": 12,
+        "SDG3":14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           147.336105,
+          -42.882044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "HC",
+        "id": "Water",
+        "name": "Marine biodiversity around UTAS",
+        "description": "Amidst the demands of everyday life, it is easy to forget the beauty of the natural environment that surrounds the Hobart community and the force that connects these communities in the Derwent River. Immersing yourself in nature has physical and mental health benefits, as well as being fun and enjoyable. The natural world is a source of scientific and artistic inspiration and a platform that connects people. <br><br>There are many ways to enjoy local biodiversity such as going for a walk in a new environment or educating yourself on local flora and fauna. <br><br><a href='https://www.derwentestuary.org.au/' target='_blank'>Learn about the Derwent Esturary Program here</a>.",          
+        "time": "",
+        "image": "./img/image_HC.Water.4.jpg",
+        "image_alt": "Line drawing of a sailing boat on the Derwent River.",
+        "SDG1": 11,
+        "SDG2": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           147.332043,
+          -42.879541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 1,
+        "name": "Leprena Garden",
+        "description":"Leprena Garden on Newnham Campus is a large garden where students can enjoy lunch or go walking. The garden is equipped with bbq facilities and picnic benches.<br><br> Green spaces are important features of urban design. The <a href=http://www.euro.who.int/__data/assets/pdf_file/0010/342289/Urban-Green-Spaces_EN_WHO_web3.pdf?ua=1' target='_blank'>here</a> World Health Organisation Regional Office for Europe </a> outlines the many benefits of green spaces such as increasing physical activity, reducing stress and air purification.<br><br>Other locations around Campus include the Riawunna garden, green spaces at the back of the Arts Building, the Student Centre, AMC, and many more.",
+        "time": "30 mins to enjoy the fresh air and sunshine ",
+        "image": "./img/image_NH.1.jpg",
+        "image_alt": "Blue skys, open green lawn and scattered trees at Leprena Garden.",
+        "accessibility1": "uneven",
+        "SDG1": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1256517,
+          -41.4019664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 2,
+        "name": "Launceston Campus Library",
+        "description":The Launceston Campus Library is the centre of activity at the Newnham Campus with 24hr access, study rooms and other facilities. <br><br> The library entrance also hosts a recycling hub for recycling old mobile phones, batteries, CDs and DVDs.",
+        "time": "",
+        "image": "./img/image_NH.2.jpg",
+        "image_alt": "Recycling hub by the entrance to the Launceston Campus Library for old mobile phones, batteries, CDs and DVDs.",
+        "SDG1": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.121975,
+          -41.4029608
+	]
+      }
+    },
+    {
+       {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 3,
+        "name": "Filtered water station",
+        "description": "The University of Tasmania provides staff and students with clean drinking water in all tea rooms and through water refill stations across the campus. Staff and students are encouraged to use reusable bottles at water refill stations around the campus instead of purchasing single use plastic bottles.<br><br> Learn more about how the <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/water' target='_blank'> University manages its  water resources </a> and ways in which you can save water.",
+        "time": "",
+        "image": "./img/image_NH.3.jpg",
+        "image_alt": "The water filter station at Newnham campus.",
+        "SDG1": 6,
+        "SDG2": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.121826,
+          -41.402166
+        ]
+      }
+    },
+    {
+    "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 4,
+        "name": "Student Services",
+        "description": "The Student Services building is your one stop shop for all your University related enquiries. Services offered include course information, administrative support and personal support. <br><br>At UTAS we celebrate inclusion and diversity . In the courtyard you will see a rainbow coloured plant box with the words Think, Accept, Celebrate and Learn as a visualisation display promoting inclusion.",
+        "time": "",
+        "image": "./img/image_NH.4.jpg",
+        "image_alt": "Red, black and white building with modern architecture glass features. Outside the building is a sunny open coutyard with a rainbow coloured planter box and the words Think, Accept, Celebrate and Learn printed on the colours to celebrate diversity and inclusion.",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1213921,
+          -41.4019322
+	]
+      }
+    },
+    {
+    "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 5,
+        "name": "Tasmanian University Union (TUU)",
+        "description": "Sustainability is about our social, personal and physical wellbeing as much as it is about environmental wellbeing. The Tasmanian University Union (TUU) supports all the above. <br><br>The TUU supports student societies and sports clubs that champion sustainability within the University and wider community. Being a part of a club or society is an excellent source of physical, mental, social and cultural wellbeing for students. <a href='https://tuu.com.au/clubs-societies/'target='_blank'> Learn more about the clubs and societies available in your Campus here </a>.<br><br> The TUU building hosts the Student Lounge and a ‘reuse centre’ (both near the building entrance). Use the ‘reuse centre’ to donate unwanted items such as books or stationery for others to reuse or collect items that you need. Here you will also find a drop off point for recycling batteries and mobile phones.",
+        "time": "",
+        "image": "./img/image_NH.5.jpg",
+        "image_alt": "Grey building with glass entrance, above the entrance there is a white sign with the red TUU column logo and the word TUU in black.",
+         "SDG1": 7,
+         "SDG2": 11,
+         "SDG3": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1222165,
+          -41.4018547
+	]
+      }
+    },
+    {
+    "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 6,
+        "name": "sTUUdent op-shop",
+        "description": "Whenther you have just finished University and looking to donate items or you are starting out and need linen or kitchenware, the TUU op-shop at Newnham is the answer to your dilemma! <br><br> 2019 TUU Environment Officer Eliza Kimlin created the op-shop to support her fellow students. For a gold coin donation you can walk away with as many items as you want. <br><br> Don’t forget to donate or return items in good condition for the next person to use.",
+        "time": "",
+        "image": "./img/image_NH.6.jpg",
+        "image_alt": "A room with bookshelves filled with kithen ware, cutlery and crockery. Towards the back of the room near window there is a clothes rack with a few donated clothes. On the table there is a sign that reads 'Welcome to the sTUUdent op-shop. Please show your student ID before taking anything'.",
+         "SDG1": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1222165,
+          -41.4018547
+      ]
+      }
+    },
+    {
+    "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 7,
+        "name": "The Walk",
+        "description": "Most catering for the University of Tasmania is currently operated by Chartwells who have committed to increasing sustainability within their services. <br><br> All campus cafes are ‘Responsible Cafes’, offering a discount if you bring your own mug. To encourage the use of reusable cups, Chartwell offer a free coffee with every reusable cup purchased.<br><br> Chartwell cafes offer compostable cutlery and packaging. The Grove and The Walk cafes send their compostable cutlery and food waste to a commercial composting facility. Saltz cafe, on the other hand composts their kitchen waste on site with the help of a student society. To further reduce plastic waste to landfill, Chartwell does not offer plastic straws anymore and have replaced single use condiment sachets where possible. <br><br> To reduce their food waste on a local scale left over food from events is supplied to City Mission charity where appropriate. On a national scale the Compass group donates both cash and food to Oz harvest. <a href='https://www.ozharvest.org/tag/compass-group' target='_blank'>Oz harvest</a> is a food rescue organization operating in Australia. They collect left over food from partnered organizations and deliver it to vulnerable communities and charities.",
+        "time": "",
+        "image": "./img/image_NH.7.jpg",
+        "image_alt": "A courtyard with trees and lamps in front of a cream coloured building which is home to The Walk.",
+         "SDG1": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.122282,
+          -41.4016925
+      ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 8,
+        "name": "Edible gardens at UTAS",
+        "description": "Scattered around the Newnham Campus you’ll find many herbs and fruit trees like this one. The University also has allocated space for students and staff who may be interesting in growing produce on campus.<br><br> Please be mindful of other people and plants when helping yourself to the produce or using the natural spaces. Take only what you need.<br><br> <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/food'target='_blank'> Visit the food section of our website </a> to find out more about edible gardens at UTAS. <br><br>Did you know? <br>The Newnham Campus has a heritage garden with trees and fruit varieties over 100 years old.",
+        "time": "",
+        "image": "./img/image_NH.8.jpg",
+        "image_alt": "Fruit trees on a lawn.",
+        "SDG1": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1216653,
+          -41.4027906
+        ]
+      }
+    },
+    {
+     "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 9,
+        "name": "Fitness Trail",
+        "description": "The Newnham Campus Fitness Trail is a fun way to incorporate physical activity into your study routine. The Trail supports a series of self-guided activities from cardiovascular strengthening to stretching and best of all…IT’S FREE.<br><br> Maintaining regular physical activity can have many positive benefits ranging from physical health to mental wellbeing.",
+        "time": "30 mins",
+        "image": "./img/image_NH.9.jpg",
+        "image_alt": "An open public fitness set up with various equipment for exercising.",
+        "SDG1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.118757,
+          -41.399265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 10,
+        "name": "Bicycle hub",
+        "description": "The Newnham bike hub was designed in collaboration with the School of Architecture and Design through a curricular in-class SIPS project in 2013. The bike hub provides secure bike storage, solar-powered bicycle charging stations and a repair stand.<br> The <a href='https://www.utas.edu.au/campuses/campus-maps' target='_blank'> University's Campus Maps </a> include information about bike parking locations, water refill stations and shower facilities.<br><br> <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/transport/decide-your-ride' target='_blank'> Decide your ride</a> is a student project with videos you can watch to map your cycling route between campus.<br><br> The University has a Sustainable Transport Strategy 2017-2021, find this and more sustainable transport resources <a href='http://www.utas.edu.au/infrastructure-services-development/sustainability/transport/sustainable-transport-options' target='_blank'> on our website</a>.",
+        "image": "./img/image_NH.10.jpg",
+        "image_alt": "The Newnham bike hub with secure bike storage and reapir stand. The bike hub has a brown wall with the UTAS logo and the words Bike Hub and AMC in bold, below is a picture of a boat on waves with the sentence ‘Pedal is the new Paddle'.",
+        "SDG1": 7,
+        "SDG2": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.118834,
+          -41.399127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 11,
+        "name": "Help point",
+        "description": "The University of Tasmania takes the safety of students and staff very seriously and has a <a href='https://askus.utas.edu.au/app/answers/detail/a_id/1512/~/is-there-a-harassment-and-discrimination-policy-at-utas%3F' target='_blank'> zero bullying and harassment policy </a>. <br><br> You can now contact security at any time anywhere on campus by downloading the free <a href='https://www.utas.edu.au/campus-services/security/safe-zone' target='_blank'> Safe Zone app </a>.",
+        "image": "./img/image_NH.11.jpg",
+        "image_alt": "A tall bright blue UTAS help point sign.",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.118827,
+          -41.397804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 12,
+        "name": "AMC Cavitation Research Laboratory",
+        "description": "<a href='https://www.amc.edu.au/facilities/cavitation' target='_blank'> The AMC Cavitation Research laboratory </a> is a unique research space used to test hydrodynamic behaviour of submerged structures such as submarines. <br><br> The sustainability feature of the cavitation tunnel is the experimental water reuse system. The water is demineralised and stored in water tanks (with a total capacity of 242,000 L)to be used when needed.",
+        "image": "./img/image_NH.12.jpg",
+        "image_alt": "A large grey bilding with large tanks along the side.",
+        "SDG1": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1195252,
+          -41.398174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 13,
+        "name": "School of Engineering and ICT",
+        "description": "The TUU became the first student union in the Southern Hemisphere to generate 100% of their energy on-site through renewables. The project was led by passionate UTAS students and staff for six years from 2014 – 2019. The initiative follows ongoing improvements in energy efficiency, and strong support from students and staff for divestment from fossil fuels. <br><br> On the rooftop of the School of Engineering and ICT you will find some of the solar panels that are part of this project. Other solar panels for this project are located at Sandy Bay campus.<br><br> Learn more about the <a href='http://www.utas.edu.au/infrastructure-services-development/sustainability/energy-and-greenhouse-gases' target='_blank'> University’s energy and green-house gas management on our website</a>.",
+        "image": "./img/image_NH.13.jpg",
+        "image_alt": "A cream coloured building with the words School of Engineering and ICT, Discipline of ICT.",
+        "SDG1": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1221032,
+          -41.4004655
+	 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 14,
+        "name": "Blue Economy Cooperative Research Centre",
+        "description": "The Blue Economy Cooperative Research Centre (Blue Economy CRC) is focused on advancing Australia’s marine-based industries by developing innovative means of sourcing sustainable seafood and producing renewable marine energy. <br><br>The 10-year research project is driven by expertise in aquaculture, renewable energy and offshore engineering from 45 national and international partners. The <a href='https://blueeconomycrc.com.au' target='_blank'>Blue Economy CRC</a> is based at the Newnham campus.",
+        "time": "",
+        "image": "./img/image_NH.14.jpg",
+        "image_alt": "A cream coloured building with the words School of Engineering and ICT, Discipline of ICT, in black text. Underneath Blue Economy is written in dark and light blue with a wave pattern next to the words.",
+        "SDG1": 2,
+        "SDG2": 7,
+        "SDG3":14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.121667,
+          -41.400556
+        ]
+      }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 15,
+        "name": "Unigym",
+        "description": "The Unigym in Newnham is a space for UTAS and the wider community to pursue health and fitness. <br> Whether you’re just starting out or well into your fitness journey, the Unigym will have the necessary services and facilities for you.<br> These include: <br> Indoor and outdoor sports courts;<br> Group and private fitness classes; <br> Space and equipment for self-guided exercise. <br><br> Follow this link to the <a href='https://www.utas.edu.au/unigym' target='_blank'>Unigym website </a> for more information on membership rates including student discounts, fitness programs and activities.",
+        "time": "",
+        "image": "./img/image_NH.15.jpg",
+        "image_alt": "A white buidling with blue pillars at the entrance. On top is a metal sign that says University sports centre. Below the metal sign is a bright green backdrop and an orange circle with the words Unigym in white."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1223686,
+          -41.4004144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 16,
+        "name": "Riawunna Centre for Aboriginal Education and Aboriginal garden",
+        "description": "Riawunna Centre for Aboriginal Education is a welcoming community space for Aboriginal and Torres Strait islander students and staff. <br> Riawunna encourages sharing stories and celebrating the culture of the traditional owners and ongoing custodians of lutruwita (Tasmania). The staff also offer many services to UTAS and the broader Tasmanian Aboriginal and Torres Strait islander community ranging from academic advice and tutoring to financial support through scholarships and bursaries. <a href='https://www.utas.edu.au/riawunna' target='_blank'> Visit the Riawunna website </a> for information about the Centre and the services offered.<br><br> <a href='https://125timeline.utas.edu.au/timeline/2010/aboriginal-tasmania-university-tasmania' target='_blank'> Read this article </a> to learn more about Riawunna at the University of Tasmania.",
+        "time": "",
+        "image": "./img/image_NH.16.jpg",
+        "image_alt": "A grey white building with two flag poles at the entrance flying the Aboriginal and the Torres Strait Islander flags.",
+        "SDG1": 4,
+        "SDG2": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.123611,
+          -41.401944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "NH",
+        "id": 17,
+        "name": "Newnham Creek",
+        "description": "Newnham creek holds significant ecological values for the Newnham Campus and the local community. The University, along with local community groups, have previously held revegetation and weeding projects around the creeks' riparian zone. <br><br> Participating in ‘hands-on’ ecological management projects offer students a great chance to actively contribute towards a conservation project in their local community. Students and community members have commented on how rewarding the experience is and the benefits of being able to do something practical. <br><br>To learn more about the University environment head to our <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/natural-environment' target='_blank'>Natural Environment webpage</a>.",
+        "time": "20 mins for a walk ",
+        "image": "./img/image_NH.16.jpg",
+        "image_alt": "A creek bounded by trees and low banks.",
+        "SDG1": 14,
+        "SDG2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1187295,
+          -41.3978463
+       ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "campus": "IR",
+        "id": 1,
+        "name": "University of Tasmania’s Inveresk Apartments",
+        "description": "The <a href='https://www.utas.edu.au/infrastructure-services-development/building-works/projects/inveresk-apartments' target='_blank'>University of Tasmania’s Inveresk Apartments</a>  were awarded a Green Building Council of Australia (GBCA) 6 star – Green Star – Design and As Built PILOT certified rating. The design features of the building combine social, structural and aesthetical sustainability to produce the outcome.<br><br> The building is equipped with 40kW photovoltaic array generating on-site renewable energy. To further reduce energy consumption the building has a passive solar design with maximised natural lighting and trickle ventilation system. A rainwater system is also in place and used for toilet flushing and other non-consumption purposes. <br><br>The structure of the building is comprised of locally sourced plantation timber, which is a carbon sink and a renewable resource. Low volatile organic compounds (VOC) and low formaldehyde construction materials and finishes were used to meet Green Building Council of Australia (GBCA) Green Star requirements. <br><br>The location of the building is close to Launceston CBD with easy access to public transport. There is also secure undercover bike parking with electric changing stations and repair stations. <br><br>Aesthetically the exterior is designed to respond well to both the urban and heritage features of Launceston. The soft grey and light brown wood also compliment the natural surroundings of North Esk river-bank. <br><br>Read more about the University’s <a href='https://secure.utas.edu.au/commercial-services-development/sustainability/constructed-environment' target='_blank'>built environment</a> on our website. <br><br><br>Picture by Thomas Ryan.",
+        "image": "./img/image_IR.1.jpg",
+        "image_alt": "Picturesque setting of the Inveresk Apartments reflecting on the North Esk river. The Apartments are mostly light brown with grey trimmings.",
+        "SDG1": 7,
+        "SDG2": 9,
+        "SDG3": 13,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1383183,
+          -41.4283648
+        ]
+      }
+    }, 
+{
+      "type": "Feature",
+      "properties": {
+        "campus": "IR",
+        "id": 2,
+        "name": "Inveresk street art",
+        "description": "Seeing a life-sized Rhino outside the Annex theatre might seem a bit strange and out of place but that was the intention of Canadian artist Roger Gaudreau who designed Mavis. <br><br> Mavis is five-foot stainless-steel structure filled with local blue stone. Roger’s intentions for Mavis is to start a conversation around the displacement on animals into foreign habitat due to climate change. <br> Climate change has accelerated the movement of animals around the world. It is estimated that marine species are moving at a much faster rate than terrestrial animals. This creates a whole new array of ecological problems such as extinction, exposure to new diseases, local niche changes, birth of hybrids with interbreeding and more <a href='https://www.nationalgeographic.com/news/2017/04/climate-change-species-migration-disease/' target='_blank'>(National Geographic)</a>. <br><br><br> Update: Mavis had to be moved temporarily due to the current construction at Inveresk.",
+        "image": "./img/image_IR.2.jpg",
+        "image_alt": "A life-sized stainless stell rhino filled with stone standing outside a yellow and red building called The Annexe.",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1394331,
+          -41.4274035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "IR",
+        "id": 3,
+        "name": "School of Architecture & Design",
+        "description": "What was once a diesel workshop for the Tasmanian Government railways is now the location for the University of Tasmania’s School of Architecture & Design. The repurposing of the heritage listed building from 1951, in 2007, presented an opportunity to both maintain its iconic exterior shed structure but also upgrade and improve on its sustainable performance as a teaching space. <br><br> The ground floor of the building is raised to accommodate a ‘thermal labyrinth’ of brick walls which provide cooling and heating to the teaching spaces. Heating of the building is also supplied by an air-sourced heat pump with gas boost, which has an estimate 10-year payback and an 85% reduction in greenhouse gase emissions compared to natural gas boilers. <br><br>The walls and ceilings were redesigned with plantation hoop pine plywood. Flooded gum plywood and rubber was used for flooring. Other sustainable materials used in the upgrade included metal and fiberglass wall cladding and carpets with post-consumer recycled content. <br><br>A recent initiative at the school is a vegetable garden maintained by the staff and students. Water for the garden, toilet flushing, and cleaning is collected in four 22,700L rainwater tanks. <br><br>Read more about the <a href='https://secure.utas.edu.au/commercial-services-development/sustainability/constructed-environment' target='_blank'>University’s sustainable built environment</a> on our website.",
+        "image": "./img/image_IR.3.jpg",
+        "image_alt": "A student walking past a black and grey shaded building with a geometric wooden 3D sculpture next to a lawn.",
+         "SDG1": 7,
+         "SDG2": 9,
+         "SDG3": 13,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.140458,
+          -441.426821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "IR",
+        "id": 4,
+        "name": "Bicycle hub",
+        "description": "The Inveresk Bike Hub was built in 2014 from re-used caging material, previously used for temporary bike shelters in other parts of the state. As part of the project, SIPS students from Architecture and Design designed, made and installed the hub facade. The project was supported by the State Government through a $10,000 grant. The bike hub features 40 secure and sheltered storage spaces, solar-powered recharging points for electric bikes, repair and water filling stations and nearby shower and change facilities. The facility is powered through solar panels located in the roof, and collects water into the adjacent water tanks. <br> The <a href='https://www.utas.edu.au/campuses/campus-maps' target='_blank'> University's Campus Maps </a> include information about bike parking locations, water refill stations and shower facilities.<br><br><a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/transport/decide-your-ride' target='_blank'>Decide your ride</a> is a student project with videos you can watch to map your cycling route between campus.<br><br>The University has a Sustainable Transport Strategy 2017-2021, find this and more sustainable transport resources <a href='http://www.utas.edu.au/infrastructure-services-development/sustainability/transport/sustainable-transport-options' target='_blank'>on our website</a>.",
+        "image": "./img/image_IR.4.jpg",
+        "image_alt": "The Inveresk Bike hub is a rectangular building made with steel and mesh. The outer design of the hub is made with wood and has a 2D bicycle sculpture. The entrance has a charging socket 2D sculpture and the word re-charge carved into the wood.",
+        "SDG1": 7,
+        "SDG2": 13,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.140556,
+          -41.426389
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "CC",
+        "id": 1,
+        "name": "Rural Clinical School Burnie",
+        "description": "The Rural Clinical School in Burnie has a food garden with native edible plants that is maintained and harvested by staff and students. The garden is educational with well labelled plants, produces food, provides a relaxing environment for those at the School and a good view for the patients in the neighbouring hospital. At this School, a store of reusable containers is kept in the student lounge and food from events is frozen in the communal fridge for students to access at any time. The School has bicycle racks and regularly hosts Ride2Work breakfasts and their student led sustainability club is proactive in running fun events.",
+ 	"image": "./img/image_CC.1.jpg",
+        "image_alt": "A white pipe with nine pots of herbs grown by Rural Clinical School students at their Atrium Apartments.",        
+	"time": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8802843093872,
+          -41.04575964459397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "CC",
+        "id": 2,
+        "name": "The Atrium Apartments",
+        "description": "Students living in the Atrium Apartments can prevent food and garden waste to landfill by composting their materials in the onsite compost bin. The compost bin was set up by SIPS students in 2019 with mentorship and support from Dr Nick Towle from the Rural Clinical School. The compost bin materials were provided by the Rural Clinical School. Students at this site can also grow their own herbs in a self-watering herb garden.",
+        "image": "./img/image_CC.2.jpg"
+	"image_alt": "A round, black compost bin for food and garden materials set up by Rural Clinical School students through the SIPS program at their Atrium Apartments.",   
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88048547506332,
+          -41.05677331964572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "CC",
+        "id": 3,
+        "name": "Cradle Coast Campus",
+        "description": "The TUU Cradle Coast has created a mug library for students and staff to borrow, wash up and bring back their mugs. Did you know that all cafés on campus offer a discount if you bring your own mug? If you are buying lunch on campus you can also reduce single-use plastic waste by bringing your own container to the café.   The Cradle Coast Campus has two bicycle racks for cyclists and is accessible via public transport Metro buses.   The Campus is also home to a small food garden in the central courtyard which is run as a teaching space for Bachelor of Education students."
+ 	"image": "./img/image_CC.3.jpg",
+       	"image_alt": "One of the food garden beds used as a teaching space for Bachelor of Education students at Cradle Coast Campus.",     
+	 },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88072419166565,
+          -41.05802526259445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "campus": "CC",
+        "id": 4,
+        "name": "Maker's Workshop",
+        "description": "The Makers Workshop in Burnie is a contemporary, architectural masterpiece completed in 2009 by architects Terroir. Part tourism attraction, museum, handmade paper mill, exhibition space, and café, this important building is a hub for cultural activities in the region, and home to a significant number of local artists, crafts-people and artisans. The Workshop is home to Australia’s largest handmade paper mill, Creative Paper-Tasmania.<br><br> Makers Workshop also forms part of the University’s Cradle Coast Campus. An inspiring new style of learning space designed to engage with local communities and students, as well as the many visitors to the region. Students are welcome to attend the regular exhibitions and free opening events. The 8 exhibition and creative spaces are open to both students and members of the community. <br><br>The Workshop is connected along the timber boardwalk around the foreshore to the city centre and has bike parking at the main entrance. Makers Workshop is located close to the penguin observation station and adjacent to Burnie’s popular Parkrun course. The site is also home to a papermakers’ fibre garden featuring sculptures by Peter Adams.",
+        "time": "",
+        "image": "./img/image_CC.4.jpg",
+        "image_alt": "Metallic grey building with modern architectural features by a road with a black sign with the writing Maker's Workshop in white text.",
+        "SDG1": "",
+        "SDG2": "",
+        "accessibility1": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8986065,
+          -41.046657
+        ]
+      }
+    }
+  ]
+}
